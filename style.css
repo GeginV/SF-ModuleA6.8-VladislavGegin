@@ -1,0 +1,19 @@
+body {
+	margin: 50px 50px;
+}
+
+.buttons {
+	margin-left: 40px;
+
+}
+
+.progress {
+	width: 269px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.btn-warning {
+	margin-left: 60px;
+	text-transform: uppercase;
+}
